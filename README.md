@@ -14,13 +14,17 @@ pnpm dev
 bun dev
 ```
 ## NAVLINKS:
-
+```bash
 Subaccount Viewpage; http://localhost:3000/plura/subaccount/1
-Agency Viewpage; http://localhost:3000/plura/agency/1
-Zapier Like Automation; https://localhost:3000/fuzzie/dashboard 
-Notion Like Notes; https://localhost:3000/cypress/dashboard
-AI ChatBot for sales and Appointments; https://localhost:3000/corina/dashboard
 
+Agency Viewpage; http://localhost:3000/plura/agency/1
+
+Zapier Like Automation; https://localhost:3000/fuzzie/dashboard 
+
+Notion Like Notes; https://localhost:3000/cypress/dashboard
+
+AI ChatBot for sales and Appointments; https://localhost:3000/corina/dashboard
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
