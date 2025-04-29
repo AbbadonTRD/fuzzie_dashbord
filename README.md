@@ -23,7 +23,7 @@ Zapier Like Automation; https://localhost:3000/fuzzie/dashboard
 
 Notion Like Notes; https://localhost:3000/cypress/dashboard
 
-AI ChatBot for sales and Appointments; https://localhost:3000/corina/dashboard
+AI ChatBot for sales and Appointments; https://localhost:3000/dashboard
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
